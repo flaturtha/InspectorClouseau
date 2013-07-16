@@ -4,7 +4,16 @@
 
 #content {
   background-color: #333;
-  h1, h2, h3, h4, h5, h6, p {
+  h1, h2, h3, h4, h5, h6, p, ul, li {
     color: white;
   }
+}
+
+ul, li {
+  width: 90%;
+  margin-left: 2.5rem;
+}
+
+nav, time {
+  display: none;
 }
