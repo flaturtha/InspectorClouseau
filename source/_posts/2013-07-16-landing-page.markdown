@@ -2,7 +2,8 @@
 layout: default
 title: "Quit wasting time &hellip; read a murder mystery today!"
 date: 2013-07-16 12:49
-comments: false
+comments: true
+sidebar: false
 categories: 
 ---
 
