@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "landing page"
+title: "madnessssss!!"
 date: 2013-07-16 12:49
 comments: false
 categories: 
